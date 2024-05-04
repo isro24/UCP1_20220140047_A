@@ -1,0 +1,28 @@
+.carousel-item img {
+    max-width: 100%;
+    height: auto;
+    max-height: 600px; 
+  }
+  
+body{
+    background-color:azure;
+}
+
+#datetime {
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+}
+  
+.card-title {
+    color: #343a40; 
+}
+
+.card-text{
+    color:#343a40;
+}
+
+    
+
+  
+
+  
